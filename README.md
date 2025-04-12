@@ -1,4 +1,4 @@
-## Transaction-Payment (Commercial Mpbile App)
+## Transaction-Payment (Official Commercial Mobile App)
 
 ![Screenshot 2024-08-25 at 06 03 04](https://github.com/user-attachments/assets/66093dcc-8a05-428c-87ca-6a54299ddfbb)
 
