@@ -8,7 +8,7 @@
 
 **Transaction-Payment (xTan)** is a modern, secure, cross-platform mobile application for managing credit card transactions, expenses, analytics, and notifications. It utilizes the Ionic Framework, Cordova, and AngularJS to deliver a native app experience on iOS and Android. The project demonstrates best practices in hybrid app development, secure data handling, and interactive UI design, making it ideal both as a commercial solution and a learning resource for developers.
 
-**Official page:** [https://gil.gmbh/en/projects/project_06/](https://gil.gmbh/en/projects/project_06/)
+- **Official page:** [https://gil.gmbh/en/projects/project_06/](https://gil.gmbh/en/projects/project_06/)
 
 ---
 
